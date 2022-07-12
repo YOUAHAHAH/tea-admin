@@ -43,13 +43,13 @@
                 <span>语言详情</span>
               </div>
             </template>
-            Vue<el-progress :percentage="71.3" color="#42b983"></el-progress>
+            Vue<el-progress :percentage="70.1" color="#42b983"></el-progress>
             JavaScript<el-progress
-              :percentage="24.1"
+              :percentage="27.8"
               color="#f1e05a"
             ></el-progress
-            >CSS <el-progress :percentage="13.7"></el-progress> HTML<el-progress
-              :percentage="5.9"
+            >CSS <el-progress :percentage="1.1"></el-progress> Other<el-progress
+              :percentage="1.0"
               color="#f56c6c"
             ></el-progress>
           </el-card>
